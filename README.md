@@ -1,2 +1,0 @@
-# maratonix
-Maratonix
