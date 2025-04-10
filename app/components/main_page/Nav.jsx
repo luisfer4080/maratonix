@@ -12,7 +12,7 @@ const Nav = () =>{
                 </Center>
             </Flex>
             <Box mt={"auto"} mb={"auto"}>
-                <Button colorPalette={"green"} p={"10px 40px 10px 40px"} borderRadius={"54px"} size={"lg"}>Sign up</Button>
+                <Button background={"#FFA82C"} color={"#EAEAEA"} p={"10px 40px 10px 40px"} borderRadius={"54px"} size={"lg"}>Sign up</Button>
                 <Button colorPalette={"#1D294A"} ml={"12px"} p={"10px 40px 10px 40px"} borderRadius={"54px"} size={"lg"} variant={"surface"}>Log in</Button>
                 <Button backgroundColor={"#EAEAEA"} ml={"12px"} color={"white"}>
                     <Icon size={"lg"} fontWeight={"bolder"} color={"#1D294A"}>

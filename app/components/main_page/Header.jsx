@@ -20,7 +20,7 @@ const Header = () =>{
                     Maratonix en una plataforma para probar tu conocimiento en diferentez quizes de Matematica, Ciencias, Historia y Cultura General. 
                 </Text> 
                 <Box mt={"40px"} ml={"5px"}>
-                    <Button colorPalette={"green"} p={"25px 55px 25px 55px"} borderRadius={"54px"} size={"lg"}>Demo</Button>
+                    <Button background={"#FFA82C"} color={"#EAEAEA"} p={"25px 55px 25px 55px"} borderRadius={"54px"} size={"lg"}>Demo</Button>
                 </Box>
             </Box>
         </Stack>
